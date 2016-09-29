@@ -1,0 +1,9 @@
+<template>
+   <div>
+      <text class="title">Hello Weex</text>
+   </div>
+</template>
+
+<style>
+   .title{ color:red;}
+</style>
